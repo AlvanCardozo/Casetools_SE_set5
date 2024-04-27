@@ -30,7 +30,7 @@ class MaxArrayTest2 {
 	public void test() {
 		
 		MaxArray Max =  new MaxArray();
-		int output=  Max.findMax();
-		assertEquals(9,output);
+		int outputs=  Max.findMax();
+		assertEquals(9,outputs);
 
 }}
